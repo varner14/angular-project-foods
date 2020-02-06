@@ -1,0 +1,5 @@
+[Info  - 11:58:30] Angular language server process ID: 4370
+[Info  - 11:58:30] Using typescript v3.7.4 from /root/.vscode/extensions/angular.ng-template-0.900.5/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 11:58:30] Using @angular/language-service v9.0.0-rc.9 from /root/.vscode/extensions/angular.ng-template-0.900.5/server/node_modules/@angular/language-service/bundles/language-service.umd.js
+[Info  - 11:58:30] Log file: /home/varner/projects/app-meat/meat-app-starter/~/.vscode-root/logs/20200204T115824/exthost1/Angular.ng-template/nglangsvc.log
+[Error - 11:58:41] No config file for /home/varner/projects/app-meat/meat-app-starter/src/app/restaurant-details/restaurant-details.component.html

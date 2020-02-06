@@ -1,0 +1,54 @@
+[2020-01-26 16:24:54.591] [exthost] [info] extension host started
+[2020-01-26 16:24:54.609] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2020-01-26 16:24:54.609] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-01-26 16:24:54.613] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2020-01-26 16:24:54.613] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-01-26 16:24:54.635] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2020-01-26 16:24:54.635] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2020-01-26 16:24:54.736] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2020-01-26 16:24:54.736] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-01-26 16:24:54.741] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2020-01-26 16:24:54.741] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/client/out/extension
+[2020-01-26 16:24:54.793] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2020-01-26 16:24:54.793] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/editorconfig.editorconfig-0.13.0/out/src/editorConfigMain
+[2020-01-26 16:24:54.857] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2020-01-26 16:24:54.857] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/esbenp.prettier-vscode-3.18.0/dist/extension
+[2020-01-26 16:24:55.181] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"activationEvent":"*"}
+[2020-01-26 16:24:55.181] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2020-01-26 16:24:55.226] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2020-01-26 16:24:55.226] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/pkief.material-icon-theme-3.9.2/dist/extension
+[2020-01-26 16:24:55.263] [exthost] [info] ExtensionService#_doActivateExtension remimarsal.prettier-now {"startup":true,"activationEvent":"*"}
+[2020-01-26 16:24:55.263] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/remimarsal.prettier-now-1.4.9/out/src/extension
+[2020-01-26 16:24:55.356] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2020-01-26 16:24:55.356] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/vscode-icons-team.vscode-icons-9.7.0/dist/src/vscode-icons.bundle.js
+[2020-01-26 16:24:55.587] [exthost] [info] eager extensions activated
+[2020-01-26 16:25:08.250] [exthost] [info] extension host started
+[2020-01-26 16:25:08.302] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2020-01-26 16:25:08.302] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-01-26 16:25:08.307] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2020-01-26 16:25:08.307] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-01-26 16:25:08.348] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2020-01-26 16:25:08.348] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2020-01-26 16:25:08.522] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2020-01-26 16:25:08.522] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-01-26 16:25:08.529] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2020-01-26 16:25:08.529] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/client/out/extension
+[2020-01-26 16:25:08.588] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2020-01-26 16:25:08.588] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/editorconfig.editorconfig-0.13.0/out/src/editorConfigMain
+[2020-01-26 16:25:08.617] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2020-01-26 16:25:08.617] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/esbenp.prettier-vscode-3.18.0/dist/extension
+[2020-01-26 16:25:08.979] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"activationEvent":"*"}
+[2020-01-26 16:25:08.979] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2020-01-26 16:25:09.026] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2020-01-26 16:25:09.026] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/pkief.material-icon-theme-3.9.2/dist/extension
+[2020-01-26 16:25:09.050] [exthost] [info] ExtensionService#_doActivateExtension remimarsal.prettier-now {"startup":true,"activationEvent":"*"}
+[2020-01-26 16:25:09.050] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/remimarsal.prettier-now-1.4.9/out/src/extension
+[2020-01-26 16:25:09.131] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2020-01-26 16:25:09.131] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/vscode-icons-team.vscode-icons-9.7.0/dist/src/vscode-icons.bundle.js
+[2020-01-26 16:25:10.461] [exthost] [info] eager extensions activated
+[2020-01-26 16:25:35.723] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2020-01-26 16:25:35.723] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2020-01-26 16:25:35.732] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2020-01-26 16:25:35.732] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-01-26 16:25:35.821] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2020-01-26 16:25:35.821] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension

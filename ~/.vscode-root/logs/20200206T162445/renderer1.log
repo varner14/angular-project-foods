@@ -1,0 +1,4 @@
+[2020-02-06 16:24:47.975] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/varner/projects/app-meat/meat-app-starter/.vscode'
+[2020-02-06 16:24:47.975] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/varner/projects/app-meat/meat-app-starter/.vscode'
+[2020-02-06 19:27:26.141] [renderer1] [error] Error: [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2020-02-06 19:27:26.159] [renderer1] [error] [File Watcher (chockidar)] Inotify limit reached (ENOSPC)

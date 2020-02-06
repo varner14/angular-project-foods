@@ -1,0 +1,2 @@
+[2020-02-03 12:05:28.454] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/varner/projects/app-meat/meat-app-starter/.vscode'
+[2020-02-03 12:05:28.454] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/varner/projects/app-meat/meat-app-starter/.vscode'

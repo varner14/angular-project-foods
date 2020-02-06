@@ -1,0 +1,8 @@
+[2020-02-03 12:02:16.636] [sharedprocess] [info] main {"machineId":"c236ceb6889d1255eccc783f0c03cbdf2eb35097a9498c7b110fa49d5a46fe59"}
+[2020-02-03 12:02:19.081] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2020-02-03 12:02:21.639] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /tmp/eb73b461-f0bb-4701-b7b7-03b7909f1d15
+[2020-02-03 12:02:21.923] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.esbenp.prettier-vscode-3.20.0: esbenp.prettier-vscode
+[2020-02-03 12:02:21.923] [sharedprocess] [info] Renamed to /root/.vscode/extensions/esbenp.prettier-vscode-3.20.0
+[2020-02-03 12:02:21.924] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2020-02-03 12:02:21.931] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2020-02-03 12:02:56.641] [sharedprocess] [info] Starting to clean up unused language packs.

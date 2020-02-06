@@ -1,0 +1,614 @@
+Initializing document watcher...
+Detected change in configuration: {}
+Detected change in configuration: {}
+meat-app-starter/README.md: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/README.md: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/README.md: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/README.md: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/restaurant-details/restaurant-details.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/restaurants/restaurants.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/app.api.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/input/input.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: Using EditorConfig core...
+src/app/shared/radio/radio.component.html: editor.action.trimTrailingWhitespace
+src/app/shared/radio/radio.component.html: insertFinalNewline(LF)
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: Using EditorConfig core...
+src/app/shared/radio/radio.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: Using EditorConfig core...
+src/app/shared/radio/radio-option.model.ts: editor.action.trimTrailingWhitespace
+src/app/shared/radio/radio-option.model.ts: insertFinalNewline(LF)
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: Using EditorConfig core...
+src/app/shared/radio/radio-option.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: Using EditorConfig core...
+src/app/shared/radio/radio.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: Using EditorConfig core...
+src/app/shared/radio/radio.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: Using EditorConfig core...
+src/app/shared/radio/radio.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: Using EditorConfig core...
+src/app/shared/radio/radio.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.css: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: Using EditorConfig core...
+src/app/shared/radio/radio.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.html: Using EditorConfig core...
+src/app/shared/radio/radio.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: Using EditorConfig core...
+src/app/shared/radio/radio.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.html: Using EditorConfig core...
+src/app/shared/radio/radio.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.html: Using EditorConfig core...
+src/app/shared/radio/radio.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/app.api.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: Using EditorConfig core...
+src/app/shared/radio/radio-option.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: Using EditorConfig core...
+src/app/shared/radio/radio.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.html: Using EditorConfig core...
+src/app/shared/radio/radio.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.html: Using EditorConfig core...
+src/app/shared/radio/radio.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: Using EditorConfig core...
+src/app/shared/radio/radio-option.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/restaurant-details/restaurant-details.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/restaurant-details/restaurant-details.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/restaurant-details/restaurant-details.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: Using EditorConfig core...
+src/app/shared/radio/radio-option.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.css: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: Using EditorConfig core...
+src/app/shared/radio/radio-option.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: Using EditorConfig core...
+src/app/shared/radio/radio-option.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: Using EditorConfig core...
+src/app/shared/radio/radio-option.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.css: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: Using EditorConfig core...
+src/app/shared/radio/radio-option.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: Using EditorConfig core...
+src/app/shared/radio/radio-option.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: Using EditorConfig core...
+src/app/shared/radio/radio-option.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: Using EditorConfig core...
+src/app/shared/radio/radio-option.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: Using EditorConfig core...
+src/app/shared/radio/radio-option.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: Using EditorConfig core...
+src/app/shared/radio/radio-option.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: Using EditorConfig core...
+src/app/shared/radio/radio-option.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: Using EditorConfig core...
+src/app/shared/radio/radio-option.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: Using EditorConfig core...
+src/app/shared/radio/radio-option.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: Using EditorConfig core...
+src/app/shared/radio/radio-option.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: Using EditorConfig core...
+src/app/shared/radio/radio-option.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: Using EditorConfig core...
+src/app/shared/radio/radio-option.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: Using EditorConfig core...
+src/app/shared/radio/radio-option.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/restaurant-details/shopping-cart/cart-item.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/restaurant-details/shopping-cart/shopping-cart.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: Using EditorConfig core...
+src/app/shared/radio/radio-option.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: Using EditorConfig core...
+src/app/shared/radio/radio-option.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: Using EditorConfig core...
+src/app/shared/radio/radio-option.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: Using EditorConfig core...
+src/app/shared/radio/radio.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.html: Using EditorConfig core...
+src/app/shared/radio/radio.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: Using EditorConfig core...
+src/app/shared/radio/radio.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/restaurant-details/restaurant-details.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/restaurants/restaurants.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/error-handler.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.css: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
