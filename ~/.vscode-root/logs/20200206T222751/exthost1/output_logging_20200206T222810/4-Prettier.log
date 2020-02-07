@@ -1,0 +1,96 @@
+["INFO" - 22:28:10] Extension Name: "prettier-vscode".
+["INFO" - 22:28:10] Extension Version: "3.20.0".
+["INFO" - 22:28:10] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 22:28:11] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 22:29:01] Formatting /home/varner/projects/meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html
+["INFO" - 22:29:01] Using ignore file (if present) at /home/varner/projects/meat-app-starter/.prettierignore
+["INFO" - 22:29:01] Using bundled version of prettier.
+["INFO" - 22:29:01] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 22:29:02] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 22:29:02] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/varner/projects/meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html",
+  "parser": "angular"
+}
+["INFO" - 22:29:02] Formatting completed in 793.487322ms.
+["INFO" - 22:29:02] Formatting /home/varner/projects/meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html
+["INFO" - 22:29:02] Using ignore file (if present) at /home/varner/projects/meat-app-starter/.prettierignore
+["INFO" - 22:29:02] Using bundled version of prettier.
+["INFO" - 22:29:02] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 22:29:02] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 22:29:02] Prettier Options:
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/varner/projects/meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html",
+  "parser": "angular"
+}
+["INFO" - 22:29:02] Formatting completed in 181.909248ms.

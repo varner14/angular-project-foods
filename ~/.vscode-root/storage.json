@@ -2,6 +2,7 @@
     "telemetry.machineId": "c236ceb6889d1255eccc783f0c03cbdf2eb35097a9498c7b110fa49d5a46fe59",
     "openedPathsList": {
         "workspaces3": [
+            "file:///home/varner/projects/meat-app-starter",
             "file:///home/varner/projects/app-meat/meat-app-starter"
         ],
         "files2": []
@@ -49,7 +50,18 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/varner/projects/app-meat/meat-app-starter",
+                                        "fsPath": "/home/varner/projects/meat-app-starter",
+                                        "external": "file:///home/varner/projects/meat-app-starter",
+                                        "path": "/home/varner/projects/meat-app-starter",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/home/varner/projects/meat-app-starter"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/varner/projects/app-meat/meat-app-starter",
                                         "path": "/home/varner/projects/app-meat/meat-app-starter",
                                         "scheme": "file"
@@ -358,8 +370,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Side Bar",
-                                    "checked": true
+                                    "label": "Show &&Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
@@ -373,8 +384,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel",
-                                    "checked": true
+                                    "label": "Show &&Panel"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -825,7 +835,8 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal"
+                        "label": "&&Split Terminal",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1375,7 +1386,7 @@
     },
     "theme": "vs-dark",
     "themeBackground": "#282a36",
-    "pickerWorkingDir": "/home/varner/projects/app-meat",
+    "pickerWorkingDir": "/home/varner/projects",
     "windowsState": {
         "lastActiveWindow": {
             "folder": "file:///home/varner/projects/app-meat/meat-app-starter",

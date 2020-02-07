@@ -1,0 +1,485 @@
+Initializing document watcher...
+Detected change in configuration: {}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: Using EditorConfig core...
+src/app/order/delivery-costs/delivery-costs.component.html: editor.action.trimTrailingWhitespace
+src/app/order/delivery-costs/delivery-costs.component.html: insertFinalNewline(LF)
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: Using EditorConfig core...
+src/app/order/delivery-costs/delivery-costs.component.html: editor.action.trimTrailingWhitespace
+Detected change in configuration: {}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: Using EditorConfig core...
+src/app/order/delivery-costs/delivery-costs.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.css: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.ts: Using EditorConfig core...
+src/app/order/delivery-costs/delivery-costs.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.ts: Using EditorConfig core...
+src/app/order/delivery-costs/delivery-costs.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.ts: Using EditorConfig core...
+src/app/order/delivery-costs/delivery-costs.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.ts: Using EditorConfig core...
+src/app/order/delivery-costs/delivery-costs.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: Using EditorConfig core...
+src/app/order/delivery-costs/delivery-costs.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: Using EditorConfig core...
+src/app/order/delivery-costs/delivery-costs.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: Using EditorConfig core...
+src/app/order/delivery-costs/delivery-costs.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: Using EditorConfig core...
+src/app/order/delivery-costs/delivery-costs.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: Using EditorConfig core...
+src/app/order/delivery-costs/delivery-costs.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: Using EditorConfig core...
+src/app/order/delivery-costs/delivery-costs.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: Using EditorConfig core...
+src/app/order/delivery-costs/delivery-costs.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: Using EditorConfig core...
+src/app/order/delivery-costs/delivery-costs.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.ts: Using EditorConfig core...
+src/app/order/delivery-costs/delivery-costs.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.ts: Using EditorConfig core...
+src/app/order/delivery-costs/delivery-costs.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio-option.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: Using EditorConfig core...
+src/app/shared/radio/radio.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: Using EditorConfig core...
+src/app/shared/radio/radio.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/shared/radio/radio.component.html: Using EditorConfig core...
+src/app/shared/radio/radio.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: Using EditorConfig core...
+src/app/order/order.model.ts: editor.action.trimTrailingWhitespace
+src/app/order/order.model.ts: insertFinalNewline(LF)
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: Using EditorConfig core...
+src/app/order/order.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: Using EditorConfig core...
+src/app/order/order.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: Using EditorConfig core...
+src/app/order/order.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.model.ts: Using EditorConfig core...
+src/app/order/order.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: Using EditorConfig core...
+src/app/order/order.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.model.ts: Using EditorConfig core...
+src/app/order/order.model.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/node_modules/@angular/http/src/interfaces.d.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.model.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: Using EditorConfig core...
+src/app/order/order.service.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: Using EditorConfig core...
+src/app/order/order.component.html: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.service.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: Using EditorConfig core...
+src/app/order/order.component.ts: editor.action.trimTrailingWhitespace
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}
+meat-app-starter/src/app/order/order.component.ts: {"insertSpaces":true,"tabSize":2}

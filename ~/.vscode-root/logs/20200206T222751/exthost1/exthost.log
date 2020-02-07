@@ -1,0 +1,68 @@
+[2020-02-06 22:27:54.388] [exthost] [info] extension host started
+[2020-02-06 22:27:54.490] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2020-02-06 22:27:54.490] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-02-06 22:27:54.599] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2020-02-06 22:27:54.599] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-02-06 22:27:54.741] [exthost] [info] ExtensionService#_doActivateExtension Angular.ng-template {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2020-02-06 22:27:54.741] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/angular.ng-template-0.900.5/client
+[2020-02-06 22:27:54.849] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2020-02-06 22:27:54.849] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-02-06 22:27:54.854] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2020-02-06 22:27:54.854] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-02-06 22:27:54.876] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2020-02-06 22:27:54.876] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2020-02-06 22:27:55.057] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2020-02-06 22:27:55.057] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-02-06 22:27:55.086] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2020-02-06 22:27:55.086] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/client/out/extension
+[2020-02-06 22:27:55.155] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2020-02-06 22:27:55.156] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/editorconfig.editorconfig-0.13.0/out/src/editorConfigMain
+[2020-02-06 22:27:55.206] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2020-02-06 22:27:55.206] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension
+[2020-02-06 22:27:55.585] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":true,"activationEvent":"*"}
+[2020-02-06 22:27:55.585] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/knisterpeter.vscode-github-0.30.3/out/src/main
+[2020-02-06 22:27:55.983] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"activationEvent":"*"}
+[2020-02-06 22:27:55.983] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2020-02-06 22:27:56.040] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2020-02-06 22:27:56.040] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/pkief.material-icon-theme-3.9.2/dist/extension
+[2020-02-06 22:27:56.079] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2020-02-06 22:27:56.079] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/vscode-icons-team.vscode-icons-9.7.0/dist/src/vscode-icons.bundle.js
+[2020-02-06 22:27:57.943] [exthost] [info] eager extensions activated
+[2020-02-06 22:28:08.128] [exthost] [info] extension host started
+[2020-02-06 22:28:08.196] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2020-02-06 22:28:08.200] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-02-06 22:28:08.219] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2020-02-06 22:28:08.223] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-02-06 22:28:08.304] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2020-02-06 22:28:08.304] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2020-02-06 22:28:08.830] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2020-02-06 22:28:08.830] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-02-06 22:28:08.856] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2020-02-06 22:28:08.866] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1/client/out/extension
+[2020-02-06 22:28:09.054] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2020-02-06 22:28:09.054] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/editorconfig.editorconfig-0.13.0/out/src/editorConfigMain
+[2020-02-06 22:28:09.142] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2020-02-06 22:28:09.142] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/esbenp.prettier-vscode-3.20.0/dist/extension
+[2020-02-06 22:28:09.805] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":true,"activationEvent":"*"}
+[2020-02-06 22:28:09.805] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/knisterpeter.vscode-github-0.30.3/out/src/main
+[2020-02-06 22:28:10.461] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"activationEvent":"*"}
+[2020-02-06 22:28:10.461] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2020-02-06 22:28:10.521] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2020-02-06 22:28:10.521] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/pkief.material-icon-theme-3.9.2/dist/extension
+[2020-02-06 22:28:10.563] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2020-02-06 22:28:10.563] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/vscode-icons-team.vscode-icons-9.7.0/dist/src/vscode-icons.bundle.js
+[2020-02-06 22:28:11.759] [exthost] [info] eager extensions activated
+[2020-02-06 22:28:49.410] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2020-02-06 22:28:49.410] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2020-02-06 22:28:49.565] [exthost] [info] ExtensionService#_doActivateExtension Angular.ng-template {"startup":false,"activationEvent":"onLanguage:html"}
+[2020-02-06 22:28:49.565] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/angular.ng-template-0.900.5/client
+[2020-02-06 22:29:01.591] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2020-02-06 22:29:01.591] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2020-02-06 22:29:01.619] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2020-02-06 22:29:01.619] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-02-06 22:29:01.870] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2020-02-06 22:29:01.870] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-02-06 22:29:07.994] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:css"}
+[2020-02-06 22:29:07.994] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain
+[2020-02-06 22:29:34.152] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2020-02-06 22:29:34.152] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
