@@ -41,7 +41,7 @@ checkOrder(order: Order): Observable<string>{
   return this.http.post(`${MEAT_API}/orders`,
    JSON.stringify(order),
    new RequestOptions({headers: headers}))
-   .map((resp => resp.json()))
+   .map((resp => resp.json())).map(order => order.id)
 }
 
 }
