@@ -30,6 +30,7 @@ testem.log
 /e2e/*.js
 /e2e/*.map
 
+/meat-app-starter
 #System Files
 .DS_Store
 Thumbs.db
